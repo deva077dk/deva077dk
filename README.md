@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deva077dk
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning cyper security cousres
-- 💞️ I’m looking to collaborate on amazon aws
+- 👀 I’m interested in ethical hacking, devops, bitcoin mining and lots more...
+- 🌱 I’m currently learning electronics and communication engineering
+- 💞️ I’m looking to collaborate on ibm,aws,infosys, 
 - 📫 How to reach me gmail, instragram ,linkedin, facebook
 
 <!---
