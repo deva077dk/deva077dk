@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Dev Front-end Developer.
-- 👀 I’m interested in ethical hacking, devops, bitcoin mining and lots more...
+- 👋 Hi, I’m Dev DevOPs Engineer.
 - 🌱 I’m currently studying electronics and communication engineering.
 - 💞️ I’m looking for my dopplerganger. 
 - 📫 How to reach me gmail, instragram ,linkedin, facebook.
